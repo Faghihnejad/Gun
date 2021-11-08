@@ -20,3 +20,21 @@ Real GDP: Annual GDP of each state based on 2012 dollar. Data for 2021 is the av
 GDP per capita: Annual GDP per capita of each state based on 2012 dollar.
 
 Urban: Urban percentage of population for each state. For the years 1999–2009 data from year 2000 was used and for the years 2010–2021 data from year 2010 is used.
+
+Sources
+
+National Instant Criminal Background Check System (NICS) - FBI
+
+GitHub - BuzzFeedNews/nics-firearm-background-checks: Monthly data from the FBI's National Instant Criminal Background Check System, converted from PDF to CSV.
+
+BEA : Regional Economic Accounts: Download
+
+Most Comprehensive Mass Shooter Database - The Violence Project
+
+Mass Shootings in America | Stanford Libraries
+
+GitHub - StanfordGeospatialCenter/MSA: The Mass Shootings in America Database. Maintained by The Stanford Geospatial Center
+
+2019 National and State Population Estimates (census.gov)
+
+Urban Percentage of the Population for States, Historical | Iowa Community Indicators Program (iastate.edu)
